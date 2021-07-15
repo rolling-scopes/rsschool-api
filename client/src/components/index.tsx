@@ -14,3 +14,4 @@ export * from './StudentMentorModal';
 export { StudentSearch } from './StudentSearch';
 export { UserSearch } from './UserSearch';
 export * from './withSession';
+export { RegistrationPageLayout } from './RegistartionPageLayout';
